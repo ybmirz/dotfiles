@@ -1,0 +1,18 @@
+*.log
+*.cache
+*history
+.DS_Store
+Code - OSS/
+Google/
+Iriun/
+TabNine/
+gh/
+github-copilot/
+go/
+Session Storage/
+Cache/
+CachedData/
+logs/
+pulse/
+spotify/
+Vencord/
