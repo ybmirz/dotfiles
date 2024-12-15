@@ -1,0 +1,83 @@
+# Main background - Made darker
+theme[main_bg]=#11111b
+
+# Main text color - Increased brightness
+theme[main_fg]=#ebeef4
+
+# Title color - Increased brightness
+theme[title]=#ebeef4
+
+# Highlight color - Made more vibrant
+theme[hi_fg]=#8cbaff
+
+# Selected background - Made darker
+theme[selected_bg]=#313244
+
+# Selected foreground - Made brighter
+theme[selected_fg]=#9dcbff
+
+# Inactive text - Slightly darker for contrast
+theme[inactive_fg]=#6c7086
+
+# Graph text - Made brighter
+theme[graph_text]=#f9e9e9
+
+# Meter background - Made darker
+theme[meter_bg]=#313244
+
+# Process misc - Made brighter
+theme[proc_misc]=#f9e9e9
+
+# Box outlines - Made more vibrant
+theme[cpu_box]=#d8b3ff    #Brighter Mauve
+theme[mem_box]=#b3f0b3    #Brighter Green
+theme[net_box]=#ffb3c1    #Brighter Maroon
+theme[proc_box]=#99ccff   #Brighter Blue
+
+# Divider lines - Made darker
+theme[div_line]=#45475a
+
+# Temperature gradients - Increased contrast
+theme[temp_start]=#b3f0b3
+theme[temp_mid]=#fff0b3
+theme[temp_end]=#ff99a8
+
+# CPU gradients - More vibrant
+theme[cpu_start]=#9ef9e6
+theme[cpu_mid]=#82d8ff
+theme[cpu_end]=#c4cbff
+
+# Free meter - More contrast
+theme[free_start]=#d8b3ff
+theme[free_mid]=#c4cbff
+theme[free_end]=#99ccff
+
+# Cached meter - Brighter
+theme[cached_start]=#82d8ff
+theme[cached_mid]=#99ccff
+theme[cached_end]=#c4cbff
+
+# Available meter - More vibrant
+theme[available_start]=#ffbe99
+theme[available_mid]=#ffb3c1
+theme[available_end]=#ff99a8
+
+# Used meter - Increased contrast
+theme[used_start]=#b3f0b3
+theme[used_mid]=#9ef9e6
+theme[used_end]=#94ebff
+
+# Download graph - More vibrant
+theme[download_start]=#ffbe99
+theme[download_mid]=#ffb3c1
+theme[download_end]=#ff99a8
+
+# Upload graph - Increased contrast
+theme[upload_start]=#b3f0b3
+theme[upload_mid]=#9ef9e6
+theme[upload_end]=#94ebff
+
+# Process box gradients - More vibrant
+theme[process_start]=#82d8ff
+theme[process_mid]=#c4cbff
+theme[process_end]=#d8b3ff
